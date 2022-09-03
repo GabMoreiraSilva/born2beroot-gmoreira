@@ -8,5 +8,6 @@ Dentro do servidor foi implementado politica de senha, acesso através de ssh, S
 O firewall foi configurado com a ajuda da ferramenta UFW que facilita e muito a criação de regras de firewall.
 
 # Explicação da página web
-Sobre o memes todos foram criados por mim, eles obedecem uma ordem cronológica de criação, que foram situações que eu fui passando dentro da comunidade, e todos tem o objetivo de **humor**
+Sobre o memes todos foram criados por mim, eles obedecem uma ordem cronológica de criação, que foram situações que eu fui passando dentro da comunidade, e todos tem o objetivo de **humor**  
+Link do site no Github Pages [Born2beroot-gmoreira](https://gabmoreirasilva.github.io/born2beroot-gmoreira/)
 <p align=center><img src="https://media3.giphy.com/media/1USKMDPjuH4ovL7J5h/giphy.gif?cid=ecf05e47tl3mrxfrlqa6cgd0via6f50czms1kheagacdhwla&rid=giphy.gif&ct=g"></p>
